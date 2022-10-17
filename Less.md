@@ -43,3 +43,4 @@
 
 # Работа с GitHub
 
+## Создание нового репозитория: repositories -> new -> name -> create
